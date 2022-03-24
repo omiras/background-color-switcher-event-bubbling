@@ -16,3 +16,7 @@ Nota: es normal que para el botón de color verdoso, el código no funcione.
 
 Existe una manera de poder "recoger" el color de fondo del nodo, sin tener que depender de su "id" ni ningún otro dato. Investiga por Internet como obtener el color de fondo aplicado por CSS a un nodo HTML.
 
+## Solución
+
+Propuesta de solución por [Juan Pablo](https://github.com/nexus122/background-color-switcher-event-bubbling
+)
